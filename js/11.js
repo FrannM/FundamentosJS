@@ -6,7 +6,7 @@ const arrayForEach = tecnologias.forEach(function (tech) {
     return tech
 })
 
-const arrayMap = tecnologias.forEach(function (tech) {
+const arrayMap = tecnologias.map(function (tech) {
     return tech
 })
 
